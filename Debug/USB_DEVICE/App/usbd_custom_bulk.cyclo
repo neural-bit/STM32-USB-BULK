@@ -1,0 +1,14 @@
+../USB_DEVICE/App/usbd_custom_bulk.c:22:20:USBD_CUSTOM_BULK_SendData	2
+../USB_DEVICE/App/usbd_custom_bulk.c:180:16:USBD_CUSTOM_BULK_Init	3
+../USB_DEVICE/App/usbd_custom_bulk.c:247:16:USBD_CUSTOM_BULK_DeInit	2
+../USB_DEVICE/App/usbd_custom_bulk.c:286:16:USBD_CUSTOM_BULK_Setup	21
+../USB_DEVICE/App/usbd_custom_bulk.c:491:9:USBD_CUSTOM_BULK_SendReport	4
+../USB_DEVICE/App/usbd_custom_bulk.c:529:17:USBD_CUSTOM_BULK_GetFSCfgDesc	3
+../USB_DEVICE/App/usbd_custom_bulk.c:557:17:USBD_CUSTOM_BULK_GetHSCfgDesc	3
+../USB_DEVICE/App/usbd_custom_bulk.c:585:17:USBD_CUSTOM_BULK_GetOtherSpeedCfgDesc	3
+../USB_DEVICE/App/usbd_custom_bulk.c:614:16:USBD_CUSTOM_BULK_DataIn	1
+../USB_DEVICE/App/usbd_custom_bulk.c:632:16:USBD_CUSTOM_BULK_DataOut	2
+../USB_DEVICE/App/usbd_custom_bulk.c:664:9:USBD_CUSTOM_BULK_ReceivePacket	2
+../USB_DEVICE/App/usbd_custom_bulk.c:693:16:USBD_CUSTOM_BULK_EP0_RxReady	3
+../USB_DEVICE/App/usbd_custom_bulk.c:723:17:USBD_CUSTOM_BULK_GetDeviceQualifierDesc	1
+../USB_DEVICE/App/usbd_custom_bulk.c:736:9:USBD_CUSTOM_BULK_RegisterInterface	2

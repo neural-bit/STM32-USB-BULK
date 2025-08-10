@@ -1,0 +1,4 @@
+../USB_DEVICE/App/usbd_custom_bulk_if.c:22:8:CUSTOM_BULK_Send	1
+../USB_DEVICE/App/usbd_custom_bulk_if.c:80:15:CUSTOM_BULK_Init_FS	1
+../USB_DEVICE/App/usbd_custom_bulk_if.c:88:15:CUSTOM_BULK_DeInit_FS	1
+../USB_DEVICE/App/usbd_custom_bulk_if.c:99:15:CUSTOM_BULK_OutEvent_FS	4
